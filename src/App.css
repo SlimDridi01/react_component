@@ -1,0 +1,14 @@
+body{
+  background:lightslategray;
+  text-align: center;
+}
+img{
+  width: 25rem;
+  border-radius: 40px;
+}
+h1{
+  color: midnightblue;
+}
+h4{
+  color: sienna;
+}
